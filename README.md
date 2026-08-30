@@ -47,4 +47,4 @@ docker run -p 9000:9000 -p 9001:9001 -e "MINIO_ROOT_USER=<user>" -e "MINIO_ROOT_
 
 ## Context
 
-Built in the first two weeks of a four-week internship (August–September 2024) at T.C. İçişleri Bakanlığı. The remaining two weeks were spent on a companion personal-website project (ASP.NET Core MVC + MySQL).
+Built in the first two weeks of a four-week internship (August–September 2024) at T.C. İçişleri Bakanlığı. The remaining two weeks were spent on a companion personal-website project (ASP.NET Core MVC + MySQL), it can be found here: https://github.com/chibielif/mywebsite.
